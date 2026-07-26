@@ -1,0 +1,19 @@
+US500 SCREEN BOT v1.2 – NAHRÁNÍ NA NOVÝ GITHUB
+
+1. Rozbal tento ZIP.
+2. Otevři rozbalenou složku.
+3. Musíš vidět složky .github a app.
+4. Na GitHubu založ nový PRÁZDNÝ repozitář US500.
+5. Nezaškrtávej README, .gitignore ani licenci.
+6. Na stránce Upload files označ v Průzkumníku vše pomocí Ctrl+A.
+7. Přetáhni vše do GitHubu.
+8. Potvrď Commit changes.
+9. Otevři Actions > Build Android APK.
+10. Po zelené fajfce stáhni artifact US500-Screen-Bot-APK.
+11. Rozbal artifact a nainstaluj app-debug.apk.
+
+Součástí je:
+- oprava OCR času: čas se vybírá ručně, OCR čas neporovnává,
+- vlastní ikona US500 pro plochu Androidu,
+- offline OCR bez internetového oprávnění,
+- GitHub Actions workflow pro bezplatné vytvoření APK.

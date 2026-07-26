@@ -1,0 +1,18 @@
+NEJJEDNODUŠŠÍ SESTAVENÍ APK ZDARMA
+
+Varianta A – GitHub Actions bez instalace vývojových nástrojů:
+1. Vytvoř bezplatný soukromý repozitář na GitHubu.
+2. Nahraj celý obsah této složky.
+3. Otevři Actions → Build Android APK → Run workflow.
+4. Po dokončení otevři běh a stáhni US500-Screen-Bot-APK.
+5. Rozbal soubor a nainstaluj app-debug.apk.
+
+Varianta B – Android Studio:
+1. Nainstaluj Android Studio.
+2. Otevři tuto složku jako projekt.
+3. Počkej na synchronizaci Gradle.
+4. Build → Build APK(s).
+5. APK je v app/build/outputs/apk/debug/app-debug.apk.
+
+BĚŽNÉ POUŽÍVÁNÍ:
+Po instalaci už PC nepotřebuješ. Aplikace běží na telefonu i tabletu s Androidem.
